@@ -14,7 +14,7 @@
 
 **Tribute Page**
 
-- [Task 1 lvl2]([https://github.com/duhnush/CODSOFT/tree/d5c873e38dcbfe2ccb92e38d3e91175631373078/task2](https://github.com/duhnush/CODSOFT/tree/af5d9a4d8f3a5bc999d7bba1e846207893509d41/task1(level2)))
+- [Task 1 lvl2](https://github.com/duhnush/CODSOFT/tree/af5d9a4d8f3a5bc999d7bba1e846207893509d41/task1(level2))
 
 
 
