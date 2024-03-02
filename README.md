@@ -12,7 +12,9 @@
 
 - [Task 2](https://github.com/duhnush/CODSOFT/tree/d5c873e38dcbfe2ccb92e38d3e91175631373078/task2)
 
+**Tribute Page**
 
+- [Task 2](https://github.com/duhnush/CODSOFT/tree/d5c873e38dcbfe2ccb92e38d3e91175631373078/task2)
 
 
 
