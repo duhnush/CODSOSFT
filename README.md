@@ -10,7 +10,7 @@
 
 **Portfolio**
 
-- [Task 2](https://github.com/duhnush/CODSOFT/tree/d5c873e38dcbfe2ccb92e38d3e91175631373078/task2)
+- [Task 2](https://github.com/duhnush/CODSOFT/tree/191c853f0bf1fa22d4aa17681856d9cee993d597/task2)
 
 **Calculator**
 
