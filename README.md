@@ -14,11 +14,11 @@
 
 **Calculator**
 
-- [Task 3](https://github.com/duhnush/CODSOFT/tree/8077b70aea5949adef893d6ae321ecab787a6cc3/task3)
+- [Task 3](https://github.com/duhnush/CODSOFT/tree/b637b9cb9781a5eeb308c4c471b62a9cea50ebf4/task3)
   
 **Tribute Page**
 
-- [Task 4](https://github.com/duhnush/CODSOFT/tree/98adde9378eceec66b623d2fd256c8c4ebfde573/task4)
+- [Task 4](https://github.com/duhnush/CODSOFT/tree/b637b9cb9781a5eeb308c4c471b62a9cea50ebf4/task4)
 
 
 
