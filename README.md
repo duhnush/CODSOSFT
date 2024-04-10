@@ -1,4 +1,4 @@
-# CODSOFT - Internship Repository
+# My MiniProjects Repository
 
 🌐 MiniProjects using technologies i have learnt
 
