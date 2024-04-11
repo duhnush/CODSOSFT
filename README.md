@@ -16,7 +16,9 @@
 
 - [Portfolio](https://github.com/duhnush/MiniProjects/tree/27aebf5e502a647516cd9811ca626d475cb85c47/personal-portfolio)
 
+**Weather App**
 
+- [Portfolio](https://github.com/duhnush/MiniProjects/tree/27aebf5e502a647516cd9811ca626d475cb85c47/weather-app)
 
 ---
 
