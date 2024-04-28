@@ -18,7 +18,7 @@
 
 **Weather App**
 
-- [Portfolio](https://github.com/duhnush/MiniProjects/tree/main/weather-app)
+- [Weather](https://github.com/duhnush/MiniProjects/tree/main/weather-app)
 
 ---
 
