@@ -6,6 +6,7 @@ menuIcon.onclick=()=>{
     navbar.classList.toggle('active');
 }
 
+
 const typed=new Typed('.multiple',{
     strings:['Frontend Developer ','Full Stack Developer','Web Designer'],
     typeSpeed:70,
